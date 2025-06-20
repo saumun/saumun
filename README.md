@@ -54,11 +54,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saumunhasan&show_icons=true&theme=tokyonight&hide_border=true" alt="Saumun's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saumunhasan&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumunhasan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumunhasan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
