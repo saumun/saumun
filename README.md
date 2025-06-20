@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack WordPress & Flutter Developer | PHP Programmer | SEO Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saumunhasan&label=Profile%20views&color=0e75b6&style=flat" alt="saumunhasan" />
+  <img src="https://komarev.com/ghpvc/?username=saumun&label=Profile%20views&color=0e75b6&style=flat" alt="saumun" />
 </p>
 
 ---
@@ -59,6 +59,22 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumun&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 My Freelancing Profiles
+
+<p align="center">
+  <a href="https://www.fiverr.com/s/bdwBX2Y" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01796c109002d9537c?mp_source=share" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+  <a href="https://www.freelancer.com/u/saumun?sb=t" target="_blank">
+    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer" />
+  </a>
 </p>
 
 ---
