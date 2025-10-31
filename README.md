@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saumun Hasan</h1>
-<h3 align="center">🚀 Full-Stack WordPress & Flutter Developer | PHP Programmer | SEO Specialist</h3>
+<h3 align="center">🚀 Digital Marketer | Brand Maker & Promoter | Graphic Designer | Web & App Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saumun&label=Profile%20views&color=0e75b6&style=flat" alt="saumun" />
@@ -7,50 +7,60 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 🧠 About Me
 
-🎯 I’m a **professional freelance developer** with over **3+ years** of experience in:
+🎯 I’m a **Creative Digital Marketer & Brand Builder** with **3+ years of experience** in merging **design, technology, and marketing** to grow online businesses.
 
-- 🔨 Building dynamic websites with **WordPress, PHP & Elementor**
-- 📱 Developing cross-platform mobile apps using **Flutter & Firebase**
-- 🌐 Managing full-scale **SEO campaigns** and digital marketing strategies
-- 🧠 Combining code, creativity, and marketing to drive **real-world business results**
+I specialize in:
+- 🚀 Building strong **brand identities & online presence**
+- 🎨 Crafting visually appealing **graphics, logos, and ad creatives**
+- 🌐 Designing & optimizing **websites and mobile apps**
+- 📈 Managing full-scale **SEO & digital marketing campaigns**
+- 💡 Promoting businesses with **data-driven strategies** and creative storytelling
 
-💡 I’m passionate about crafting **user-focused digital experiences** that are fast, scalable, and optimized for growth.
+✨ My goal: To turn **brands into experiences** and **ideas into revenue**.
 
 ---
 
 ### 💼 What I Do
 
-- ✅ WordPress Development (Themes, Custom PHP, WooCommerce)
-- ✅ Flutter Android App Development (Firebase Auth, Firestore)
-- ✅ SEO (On-Page, Technical, Google Search Console)
-- ✅ Responsive Web Design (Elementor, Custom CSS/JS)
-- ✅ Social Media & Content Marketing (Canva, Figma, Meta Ads)
-- ✅ Website Optimization & Performance Tuning
+- ✅ **Digital Marketing:** Google Ads, Meta Ads, Campaign Strategy  
+- ✅ **Brand Design:** Logos, Visual Identity, Brand Guidelines  
+- ✅ **Graphic Design:** Social Media Posts, Product Banners, Print Designs  
+- ✅ **Web Development:** WordPress, PHP, Elementor, WooCommerce  
+- ✅ **App Development:** Flutter + Firebase  
+- ✅ **SEO & Content Strategy:** On-Page, Technical, and Growth SEO  
+- ✅ **Brand Promotion:** Organic & Paid Social Growth Strategies  
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-#### 💻 Programming & CMS
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+#### 💻 Development
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### 🧩 Tools & Design
+#### 🎨 Design & Marketing
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-4267B2?style=for-the-badge&logo=meta&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
+#### ⚙️ Tools & Platforms
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=for-the-badge&logo=elementor&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
-
 
 ### 📊 GitHub Stats
 
@@ -64,7 +74,7 @@
 
 ---
 
-### 🌐 Social Media Profiles
+### 🌐 Connect With Me
 
 <p align="center">
 
@@ -88,8 +98,7 @@
 
 ---
 
-
-### 🌐 My Freelancing Profiles
+### 💼 Freelancing Profiles
 
 <p align="center">
   <a href="https://www.fiverr.com/s/ljKbxgy" target="_blank">
@@ -109,14 +118,14 @@
 
 📧 **Email:** [saumunhasantasin@gmail.com](mailto:saumunhasantasin@gmail.com)  
 🌍 **Location:** Thakurgaon, Bangladesh  
-🎯 **Freelance Platforms:** [Fiverr](https://www.fiverr.com/s/ljKbxgy) *(add your profile)* | Upwork *(optional)*
+💼 **Freelance Platforms:** [Fiverr](https://www.fiverr.com/s/ljKbxgy) | [Upwork](https://www.upwork.com/freelancers/~01796c109002d9537c?mp_source=share)
 
 ---
 
-### 🚀 Let's Build Something Great Together!
+### 🌟 “Design, Code, and Marketing — The perfect trio for building brands that last.”
 
 <p align="center">
-  <i>“Code is not just code. It's a solution, a vision, a business booster.”</i>
+  <i>Let’s connect, collaborate, and create something extraordinary 🚀</i>
 </p>
 
 ---
