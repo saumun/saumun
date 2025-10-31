@@ -109,7 +109,7 @@
 
 📧 **Email:** [saumunhasantasin@gmail.com](mailto:saumunhasantasin@gmail.com)  
 🌍 **Location:** Thakurgaon, Bangladesh  
-🎯 **Freelance Platforms:** [Fiverr](https://www.fiverr.com/) *(add your profile)* | Upwork *(optional)*
+🎯 **Freelance Platforms:** [Fiverr](https://www.fiverr.com/s/ljKbxgy) *(add your profile)* | Upwork *(optional)*
 
 ---
 
