@@ -92,7 +92,7 @@
 ### 🌐 My Freelancing Profiles
 
 <p align="center">
-  <a href="https://www.fiverr.com/s/bdwBX2Y" target="_blank">
+  <a href="[https://www.fiverr.com/s/bdwBX2Y](https://www.fiverr.com/s/ljKbxgy)" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
   </a>
   <a href="https://www.upwork.com/freelancers/~01796c109002d9537c?mp_source=share" target="_blank">
@@ -107,7 +107,7 @@
 
 ### 📫 Contact Me
 
-📧 **Email:** [mdsaumunhasan@gmail.com](mailto:mdsaumunhasan@gmail.com)  
+📧 **Email:** [saumunhasantasin@gmail.com](mailto:saumunhasantasin@gmail.com)  
 🌍 **Location:** Thakurgaon, Bangladesh  
 🎯 **Freelance Platforms:** [Fiverr](https://www.fiverr.com/) *(add your profile)* | Upwork *(optional)*
 
